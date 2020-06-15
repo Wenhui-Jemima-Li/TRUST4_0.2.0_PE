@@ -1,0 +1,13 @@
+{
+  "TRUST4workflowPE.memory": "Int (optional, default = 4)",
+  "TRUST4workflowPE.stage": "Int (optional, default = 0)",
+  "TRUST4workflowPE.samplename": "String",
+  "TRUST4workflowPE.fastq1": "File",
+  "TRUST4workflowPE.abnormalUnmapFlag": "Boolean",
+  "TRUST4workflowPE.barcodeRange": "String? (optional, default = \"0 -1 +\")",
+  "TRUST4workflowPE.barcode": "File? (optional)",
+  "TRUST4workflowPE.noExtraction": "Boolean",
+  "TRUST4workflowPE.fastq2": "File",
+  "TRUST4workflowPE.thread": "Int (optional, default = 1)"
+}
+
